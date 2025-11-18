@@ -1,16 +1,29 @@
-# mind_bloom
+Mind Bloom 🌿📱
+Description
 
-A new Flutter project.
+Mind Bloom est une application mobile statique conçue pour aider les utilisateurs à s’entraîner mentalement et à réduire le stress.
+Elle propose des exercices simples et des conseils pour améliorer la concentration, se relaxer et rester motivé au quotidien.
 
-## Getting Started
+Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+Exercices de relaxation et respiration 🌬️
 
-A few resources to get you started if this is your first Flutter project:
+Conseils pour réduire le stress et gérer l’anxiété 🧘‍♂️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Suivi de l’avancement personnel et motivation quotidienne 📊
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interface intuitive et agréable, adaptée à tous les utilisateurs
+
+Application statique, facile à utiliser, ne nécessite pas de connexion internet
+
+Technologies utilisées
+
+Framework : Flutter
+
+Langage : Dart
+
+Plateformes : Android et iOS
+
+Objectif
+
+Fournir une application simple et pratique pour aider les utilisateurs à s’entraîner mentalement, améliorer leur bien-être et réduire le stress au quotidien.
